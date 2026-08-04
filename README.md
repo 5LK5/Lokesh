@@ -7,28 +7,28 @@ Passionate about solving real-world problems through clean code and modern softw
 
 🌱 Currently mastering
 
-• Spring Boot
-• REST APIs
-• Hibernate (JPA)
-• MySQL
-• System Design Fundamentals
+- Spring Boot
+- REST APIs
+- Hibernate (JPA)
+- MySQL
+- System Design Fundamentals
 
 ## 🚀 Currently Working On
 
-• Full Stack Java Projects
-• REST API Development
-• DSA (Java)
-• Backend Development with Spring Boot
+- Full Stack Java Projects
+- REST API Development
+- DSA (Java)
+- Backend Development with Spring Boot
 
 ## 👨‍💻 About Me
 
-• Computer Science undergraduate at MAIT
-• Enjoy solving Data Structures & Algorithms problems
-• Interested in Full Stack Development
-• Love building real-world applications
-• Always learning something new and improving my engineering skills
+- Computer Science undergraduate at MAIT
+- Enjoy solving Data Structures & Algorithms problems
+- Interested in Full Stack Development
+- Love building real-world applications
+- Always learning something new and improving my engineering skills
 
-- 📫 How to reach me **www.linkedin.com/in/lokesh-kamra-b90863320**
+## 📫 How to reach me **www.linkedin.com/in/lokesh-kamra-b90863320**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
