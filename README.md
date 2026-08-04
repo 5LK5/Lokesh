@@ -5,7 +5,7 @@ Java Full Stack Developer • Problem Solver • Open Source Learner
 <h3 align="center">Building scalable web applications using Java, Spring Boot, React, and SQL.
 Passionate about solving real-world problems through clean code and modern software engineering.</h3>
 
-- 🌱 Currently mastering
+🌱 Currently mastering
 
 • Spring Boot
 • REST APIs
